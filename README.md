@@ -1,6 +1,6 @@
 # quasar-pocketbase-orderBook
 
-Quasar and Pocketbase orderBook (for trading in spot) SPA
+[Quasar](https://quasar.dev) and [Pocketbase](https://github.com/pocketbase/) orderBook (for trading in spot) SPA
 
 # order book for spot trading (spotbook)
 
